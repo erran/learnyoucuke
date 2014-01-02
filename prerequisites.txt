@@ -1,0 +1,9 @@
+{yellow}{bold}Prequisites{/yellow}{/bold}
+
+1. Ruby 2.0 or higher: Using RVM ({bold}{underline}https://rvm.io{/underline}{/bold})
+2. Cucumber: `{bold}gem install cucumber{/bold}`
+3. A copy of the Demo Cucumber project ({bold}{underline}https://github.com/ipwnstuff/cuke-demo{/underline}{/bold})
+
+{yellow}{bold}Other Resources{/yellow}{/bold}
+
+{bold}{underline}https://github.com/ipwnstuff/cucumber-style-guide{/underline}{/bold}
