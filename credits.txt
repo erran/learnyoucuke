@@ -1,0 +1,5 @@
+{yellow}{bold}{appname} credits{/bold}{/yellow}
+
+{bold}Name                GitHub Username{/bold}
+-----------------------------------
+Erran Carey         @ipwnstuff
