@@ -1,0 +1,18 @@
+Write a feature file in the Gherkin language.
+
+See the Feature Introduction on the Cucumber wiki: {bold}{underline}https://github.com/cucumber/cucumber/wiki/Feature-Introduction{/underline}{/bold}
+
+----------------------------------------------------------------------
+HINTS:
+
+To run cucumber under Node.js make use `cucumber-wrapper.js`.
+
+  $ node cucumber-wrapper.js
+
+When you are done, you must run:
+
+   {appname} verify cucumber-wrapper.js
+
+Your cucumber results will then be verified.
+
+----------------------------------------------------------------------
