@@ -1,0 +1,3 @@
+{yellow}{bold}Find a problem or want to contribute?{/bold}{/yellow}
+
+You can contribute at {underline}{bold}http://github.com/ipwnstuff/learnyoucuke{/bold}{/underline}
