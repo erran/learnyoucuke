@@ -2,6 +2,7 @@
 
 1. Ruby 2.0 or higher: Using RVM ({bold}{underline}https://rvm.io{/underline}{/bold})
 2. Cucumber: `{bold}gem install cucumber{/bold}`
+3. Download 'cucumber-wrapper.js' from {bold}{underline}http://gist.github.com/ipwnstuff/8215988{/underline}{/bold}
 
 {yellow}{bold}Other Resources{/yellow}{/bold}
 
